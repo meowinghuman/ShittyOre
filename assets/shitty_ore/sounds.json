@@ -1,0 +1,20 @@
+{
+  "dryfart": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shitty_ore:dry-fart_3",
+        "stream": false
+      }
+    ]
+  },
+  "shit_monster_death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shitty_ore:perfect-fart_1",
+        "stream": false
+      }
+    ]
+  }
+}

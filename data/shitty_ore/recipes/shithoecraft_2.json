@@ -1,0 +1,27 @@
+{
+  "group": "shitty_ore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "shitty_ore:shit"
+    },
+    "1": {
+      "item": "shitty_ore:shit"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "shitty_ore:shithoe",
+    "count": 1
+  }
+}

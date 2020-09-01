@@ -1,0 +1,39 @@
+{
+  "group": "shitty_ore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shitty_ore:shit"
+    },
+    "2": {
+      "item": "shitty_ore:shit"
+    },
+    "3": {
+      "item": "shitty_ore:shit"
+    },
+    "4": {
+      "item": "shitty_ore:shit"
+    },
+    "5": {
+      "item": "shitty_ore:shit"
+    },
+    "6": {
+      "item": "shitty_ore:shit"
+    },
+    "7": {
+      "item": "shitty_ore:shit"
+    },
+    "8": {
+      "item": "shitty_ore:shit"
+    }
+  },
+  "result": {
+    "item": "shitty_ore:shitarmor_chestplate",
+    "count": 1
+  }
+}

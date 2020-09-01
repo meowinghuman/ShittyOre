@@ -1,0 +1,13 @@
+{
+  "group": "shitty_ore",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shitty_ore:shit"
+    }
+  ],
+  "result": {
+    "item": "shitty_ore:shitnugget",
+    "count": 9
+  }
+}

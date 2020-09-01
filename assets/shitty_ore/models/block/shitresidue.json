@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shitty_ore:blocks/shit_residue",
+    "up": "shitty_ore:blocks/shit_residue",
+    "north": "shitty_ore:blocks/shit_residue",
+    "east": "shitty_ore:blocks/shit_residue",
+    "south": "shitty_ore:blocks/shit_residue",
+    "west": "shitty_ore:blocks/shit_residue",
+    "particle": "shitty_ore:blocks/shit_residue"
+  }
+}

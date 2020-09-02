@@ -1,0 +1,26 @@
+{
+  "group": "shitty_ore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "1": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "2": {
+      "item": "minecraft:dirt"
+    },
+    "3": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "shitty_ore:shitresidue",
+    "count": 1
+  }
+}

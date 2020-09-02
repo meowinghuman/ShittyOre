@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="shitty_ore"
+version="1.0.2"
+displayName="Shitty Ore"
+credits="i fucking made this while eating beans"
+displayURL="https://discord.gg/Wu5Qbqw"
+logoFile="logo.png"
+authors="jewcob"
+description='''
+Adds shit to your game
+'''
+
+[[dependencies.shitty_ore]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,42 @@
+{
+  "group": "shitty_ore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shitty_ore:shitnugget"
+    },
+    "1": {
+      "item": "shitty_ore:shitnugget"
+    },
+    "2": {
+      "item": "shitty_ore:shitnugget"
+    },
+    "3": {
+      "item": "shitty_ore:shitnugget"
+    },
+    "4": {
+      "item": "shitty_ore:shitnugget"
+    },
+    "5": {
+      "item": "shitty_ore:shitnugget"
+    },
+    "6": {
+      "item": "shitty_ore:shitnugget"
+    },
+    "7": {
+      "item": "shitty_ore:shitnugget"
+    },
+    "8": {
+      "item": "shitty_ore:shitnugget"
+    }
+  },
+  "result": {
+    "item": "shitty_ore:shit",
+    "count": 1
+  }
+}

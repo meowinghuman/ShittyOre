@@ -1,0 +1,29 @@
+{
+  "group": "shitty_ore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "shitty_ore:shit"
+    },
+    "1": {
+      "item": "shitty_ore:shit"
+    },
+    "2": {
+      "item": "shitty_ore:shit"
+    },
+    "3": {
+      "item": "shitty_ore:shit"
+    },
+    "5": {
+      "item": "shitty_ore:shit"
+    }
+  },
+  "result": {
+    "item": "shitty_ore:shitarmor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "shitty_ore:block/shitdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "shitty_ore:block/shitdimension_portal_ns"
+    }
+  }
+}
